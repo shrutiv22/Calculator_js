@@ -1,0 +1,43 @@
+.container{
+    text-align: center;
+    border: 1px solid rgb(5, 18, 46);
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    margin-top: 100px;
+    background-color: rgb(30, 48, 58);
+    box-shadow: 2px 2px ;
+}
+h1{
+    color: azure;
+}
+table{
+    margin:auto
+}
+
+input{
+    font-size: 30px;
+    width: 373px;
+    height: 50px;
+    border: 2px solid rgb(5, 18, 46);
+    box-shadow: 1px 1px rgb(5, 18, 46);
+    border-radius: 5px;
+}
+button{
+    font-size: 20px;
+    background-color: rgb(153, 77, 77);
+    box-shadow: 1px 1px rgb(97, 39, 39);
+    width: 90px;
+    height: 50px;
+   
+}
+.calculator{
+    width:380px;
+    height: 270px;
+    margin: auto;
+    margin-top: 5px;
+    background-color: rgb(189, 121, 121);
+}
+.calc{
+    display: inline-block;
+}
